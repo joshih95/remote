@@ -1,1 +1,2 @@
-my master file
+my master file.
+editing it in another branch
